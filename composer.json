@@ -1,0 +1,19 @@
+{
+    "name": "biorev/fivenine",
+    "description": "This Package is library for Five9 CRM API integrartion in system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit kumar",
+            "email": "ankit@biorev.us"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "biorev\\fivenine\\" : "src/"
+        }
+    },
+    "require": {}
+}
